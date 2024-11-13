@@ -21,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/innovativedivy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innovativedivy" height="30" width="40" /></a>
+<a href="https://threads.com/innovativedivy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/threads.svg" alt="innovativedivy" height="30" width="40" /></a>
+<a href="https://x.com/innovativedivy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x.svg" alt="innovativedivy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/innovativedivy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="innovativedivy" height="30" width="40" /></a>
 </p>
 
