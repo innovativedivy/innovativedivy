@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divya Shah</h1>
+<h1 align="center">Hi 👋, It's me InnovativeDivy</h1>
 <h3 align="center">Top Virtual Reality (VR) Voice Jan'24 | XR Consultant | Member of IEEE & Advisory Committee in IEEE SOU SB | Former Spark AR Campus Ambassador| Former - α - MLSA</h3>
 
 - 🔭 I’m currently working on **Cutting-Edge Technologies**
