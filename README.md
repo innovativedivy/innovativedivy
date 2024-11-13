@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Game Creators**
 
-- 👨‍💻 All of my projects are available at [https://look.divyashah.me/DSTree](https://look.divyashah.me/DSTree)
+- 👨‍💻 All of my projects are available at - [Portfolio](https://look.divyashah.me/DSTree)
 
-- 📝 I regularly write articles on [https://look.divyashah.me/DivyLinkedIn](https://look.divyashah.me/DivyLinkedIn)
+- 📝 I regularly write articles on - [LinkedIn](https://look.divyashah.me/DivyLinkedIn)
 
 - 💬 Ask me about **Game Dev, New Technologies**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://threads.com/innovativedivy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/threads.svg" alt="innovativedivy" height="30" width="40" /></a>
-<a href="https://x.com/innovativedivy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="innovativedivy" height="30" width="40" /></a>
+<a href="https://x.com/innovativedivy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="innovativedivy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/innovativedivy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="innovativedivy" height="30" width="40" /></a>
 </p>
 
