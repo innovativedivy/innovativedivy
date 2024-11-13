@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Game Dev, New Technologies**
 
-- 📫 How to reach me **divyashah.linkedin@gmail.com**
+- 📫 How to reach me - [Drop Me a Mail](mailto:divyashah.linkedin@gmail.com)
 
 - ⚡ Fun fact **I think, I can be a DOP 🎥**
 
